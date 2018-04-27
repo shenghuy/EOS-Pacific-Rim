@@ -21,14 +21,17 @@ cd build
 make install
 ```
 
-# How to configure node and test BP
-- Create data-dir folder for you node:
-  mkdir /opt/EOS-Pacific-Rim
-- Download files config.ini, genesis.json, start.sh, stop.sh and put in this folder /opt/EOS-Pacific-Rim
+- Download files :
+```
+ cd /opt
+ mkdir EOS-Pacific-Rim
+ git clone https://github.com/lucas556/EOS-Pacific-Rim.git
+```
 - All paths in files are binded to this data folder
 - add execution rights  
+```
   chmod +x /opt/EOS-Pacific-Rim/*.sh  
-  
+```
 - Choose your producer name and create own EOS key pair  
   you can create key pair using cleos command ./cleos create key.
 - Edit config.ini with your producer name and created key pair
