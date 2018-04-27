@@ -1,6 +1,4 @@
 # Howto Install EOS node:  
-  
-
 
 ### Clone into new folder
 ```console
@@ -31,7 +29,7 @@ make install
 - add execution rights  
   chmod +x /opt/EOS-Pacific-Rim/*.sh  
   
-- Choose your producer name (any jungle animal ;) and create own EOS key pair  
+- Choose your producer name and create own EOS key pair  
   you can create key pair using cleos command ./cleos create key.
 - Edit config.ini with your producer name and created key pair
 - Open http and p2p Ports on your firewall/router
@@ -49,7 +47,6 @@ make install
 # BP Nodes Information
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
-| Volcano | jungle.cryptolions.io | 8888	| 9876	 | Ukraine, Kyiv | CryptoLions.io |
 | EOS Beijing | 150.109.65.114 | 8888	| 9876 | Hongkong | EOS Beijing |
 
 
