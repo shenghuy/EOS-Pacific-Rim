@@ -32,7 +32,7 @@ make install
   chmod +x /opt/EOS-Pacific-Rim/*.sh  
   
 - Choose your producer name (any jungle animal ;) and create own EOS key pair  
-  you can create key pair using cleos command ./cleos create key or <a target="_blank" href="https://nadejde.github.io/eos-token-sale/">here</a>.
+  you can create key pair using cleos command ./cleos create key.
 - Edit config.ini with your producer name and created key pair
 - Open http and p2p Ports on your firewall/router
 - Connect your node, run ./start.sh
