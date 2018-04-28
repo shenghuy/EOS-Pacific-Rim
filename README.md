@@ -51,6 +51,7 @@ make install
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
 | EOS Beijing | 150.109.65.114 | 8888	| 9876 | Hongkong | EOS Beijing |
+| EOS ASIA | bp-test.eosasia.one | 9893	| 9876 | Seoul | EOS ASIA |
 
 
 
