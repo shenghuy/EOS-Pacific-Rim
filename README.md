@@ -50,9 +50,9 @@ make install
 # BP Nodes Information
 | BP Name | Address | Port (http) | Port (p2p) | Location | Organisation |
 |---------|---------|-------------|------------|----------|--------------|
-| EOS Beijing | 150.109.65.114 | 8888	| 9876 | Hongkong | EOS Beijing |
-| EOS ASIA | bp-test.eosasia.one | 9893	| 9892 | Seoul,Korea | EOS ASIA |
-
+| eosbeijing | 150.109.65.114 | 8888	| 9876 | Hongkong | EOS Beijing |
+| eosasia | bp-test.eosasia.one | 9893	| 9892 | Seoul,Korea | EOS ASIA |
+| eossv | pacificrim.eossv.org | 9893	| 9892 | Seoul,Korea |  EOS Silicon Valley |
 
 
 # Nodes
