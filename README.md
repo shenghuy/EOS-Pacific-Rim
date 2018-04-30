@@ -52,7 +52,7 @@ make install
 |---------|---------|-------------|------------|----------|--------------|
 | eosbeijing | 150.109.65.114 | 8888	| 9876 | Hongkong | EOS Beijing |
 | eosasia | bp-test.eosasia.one | 9893	| 9892 | Seoul,Korea | EOS ASIA |
-| eossv | pacificrim.eossv.org | 9893	| 9892 | Los_Angeles |  EOS Silicon Valley |
+| eossv | pacificrim.eossv.org | 9893	| 9892 | Los Angeles |  EOS Silicon Valley |
 
 
 # Nodes
